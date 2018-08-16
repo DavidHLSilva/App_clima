@@ -1,0 +1,1 @@
+/Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/Resources/ui/handheld/android/ApplicationWindow.js

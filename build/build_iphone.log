@@ -1,0 +1,202 @@
+
+2018-8-16 12:20:12
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.13.6
+  Architecture                = 64bit
+  # CPUs                      = 4
+  Memory                      = 8589934592
+
+Node.js
+  Node.js Version             = 8.9.1
+  npm Version                 = 5.5.1
+
+Titanium CLI
+  CLI Version                 = 5.1.1
+
+Titanium SDK
+  SDK Version                 = 7.2.0.GA
+  SDK Path                    = /Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA
+  Target Platform             = iphone
+
+Command
+  /usr/local/bin/node /Users/jezrel_mx/.appcelerator/install/7.0.4/package/node_modules/titanium/lib/titanium.js build --platform ios --log-level trace --sdk 7.2.0.GA --project-dir /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima --target simulator --ios-version 11.4 --device-family iphone --deploy-type development --device-id E17FA73F-30F8-494F-93F3-A736F2D83C13 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49270 --config-file /var/folders/xp/b9hl1l0n5h906h775tv5xk2h0000gn/T/build-1534440009783.json --no-banner --project-dir /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima
+
+[TRACE]  [ioslib] Validating iOS Simulator UDID E17FA73F-30F8-494F-93F3-A736F2D83C13
+[TRACE]  [ioslib] Found iOS Simulator UDID E17FA73F-30F8-494F-93F3-A736F2D83C13
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone X
+[TRACE]  [ioslib]   UDID    = E17FA73F-30F8-494F-93F3-A736F2D83C13
+[TRACE]  [ioslib]   iOS     = 11.4
+[TRACE]  [ioslib] Autoselected Xcode: 9.4.1
+[DEBUG]  Detecting modules in /Users/jezrel_mx/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: facebook 7.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/facebook/7.1.0
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/hyperloop/1.2.8
+[DEBUG]  Detected android module: hyperloop 3.0.5 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/hyperloop/3.0.5
+[DEBUG]  Detected android module: ti.cloudpush 5.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.1.0
+[DEBUG]  Detected android module: ti.identity 2.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.identity/2.1.0
+[DEBUG]  Detected android module: ti.map 4.1.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.map/4.1.1
+[DEBUG]  Detected android module: ti.playservices 11.0.40 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.playservices/11.0.40
+[DEBUG]  Detected android module: ti.touchid 3.0.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.touchid/3.0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.1.0
+[DEBUG]  Detected iphone module: facebook 5.7.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/facebook/5.7.0
+[DEBUG]  Detected iphone module: hyperloop 1.2.8 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/hyperloop/1.2.8
+[DEBUG]  Detected iphone module: hyperloop 3.0.5 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/hyperloop/3.0.5
+[DEBUG]  Detected iphone module: ti.coremotion 2.0.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.1
+[DEBUG]  Detected iphone module: ti.identity 1.0.3 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.3
+[DEBUG]  Detected iphone module: ti.map 3.0.2 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.map/3.0.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.1.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.1.1
+[DEBUG]  Detected iphone module: ti.touchid 2.1.4 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.touchid/2.1.4
+[DEBUG]  Detected windows module: hyperloop 3.0.5 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/windows/hyperloop/3.0.5
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Checking if log server port 24656 is available
+[DEBUG]  Log server port 24656 is in use, testing if it's the app we're building
+[DEBUG]  The log server port is being used by the app being built, continuing
+[DEBUG]  Titanium SDK iOS directory: /Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/iphone
+[INFO]   Deploy type: development
+[INFO]   Building for target: simulator
+[INFO]   Building using iOS SDK: 11.4
+[INFO]   Building for iOS Simulator: iPhone X
+[DEBUG]  UDID: E17FA73F-30F8-494F-93F3-A736F2D83C13
+[DEBUG]  Simulator type: iphone
+[DEBUG]  Simulator version: 11.4
+[INFO]   Building for device family: iphone
+[DEBUG]  Setting Xcode target to Debug
+[DEBUG]  Setting Xcode build OS to iphonesimulator
+[DEBUG]  Xcode installation: /Applications/Xcode.app/Contents/Developer
+[DEBUG]  iOS WWDR certificate: installed
+[INFO]   Team ID: n/a
+[INFO]   Minimum iOS version: 8.0
+[INFO]   Logging enabled on port 24656
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Set to copy files instead of symlinking
+[INFO]   Initializing the build directory
+[TRACE]  Starting third-party framework detection
+[TRACE]  offline build file /var/folders/xp/b9hl1l0n5h906h775tv5xk2h0000gn/T/build-f941fb9833a9175ecf34f56699f0afb59366a952.json
+[TRACE]  online 1
+[TRACE]  optimizing build, last build was 5154.536 sec ago
+[INFO]   Creating Xcode project
+[TRACE]  Removing pre-compile phase
+[TRACE]  No native module libraries to add
+[TRACE]  No extensions to add
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima.xcodeproj/project.pbxproj
+[INFO]   Creating Entitlements.plist
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima.entitlements
+[INFO]   Creating Info.plist
+[DEBUG]  Checking for Splash Screen localization
+[INFO]   Disabling ATS
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Info.plist
+[INFO]   Creating main.m
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/main.m
+[INFO]   Creating Xcode config files
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/project.xcconfig
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/module.xcconfig
+[INFO]   Copying Titanium libraries
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libTiCore.a
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libtiverify.a
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libti_ios_debugger.a
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libti_ios_profiler.a
+[INFO]   Copying Titanium iOS files
+[TRACE]  Skipping Classes/ApplicationRouting.m, it'll be processed later
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima_Prefix.pch
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima.xcodeproj/xcshareddata/xcschemes/Clima.xcscheme
+[INFO]   Installing default LaunchScreen.storyboard
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/LaunchScreen.storyboard
+[INFO]   Creating debugger and profiler plists
+[DEBUG]  Skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/debugger.plist
+[DEBUG]  Skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/profiler.plist
+[INFO]   Analyzing Resources directory
+[INFO]   Analyzing platform files
+[INFO]   Analyzing module files
+[INFO]   Analyzing localized launch images
+[INFO]   Analyzing CommonJS modules
+[INFO]   Creating asset catalog
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/Contents.json
+[INFO]   Creating app icon set
+[TRACE]  Found generated 58x58 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@2x.png
+[TRACE]  Found generated 87x87 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@3x.png
+[TRACE]  Found generated 80x80 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@2x.png
+[TRACE]  Found generated 120x120 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@3x.png
+[TRACE]  Found generated 120x120 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@2x.png
+[TRACE]  Found generated 180x180 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@3x.png
+[TRACE]  Found generated 1024x1024 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Marketing.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
+[INFO]   Creating launch logo image set
+[TRACE]  Found generated 320x320 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~iphone.png
+[TRACE]  Found generated 374x374 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~iphone.png
+[TRACE]  Found generated 621x621 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@3x~iphone.png
+[TRACE]  Found generated 384x384 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~ipad.png
+[TRACE]  Found generated 1024x1024 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~ipad.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/Contents.json
+[INFO]   Creating launch image set
+[DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Landscape.png
+[DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Landscape@2x.png
+[DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Portrait.png
+[DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Portrait@2x.png
+[DEBUG]  Unsupported launch image Resources/iphone/Default.png, skipping
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
+[INFO]   Creating assets image set
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/183558f6ed7cc399a1af7d1033541e9e32c5c30c.imageset/Contents.json
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/Contents.json
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/Contents.json
+[DEBUG]  Copying resources
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-2436h@3x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-2436h@3x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/183558f6ed7cc399a1af7d1033541e9e32c5c30c.imageset/wind.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@2x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@3x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@2x.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@3x.png
+[DEBUG]  Copying CSS files
+[INFO]   Processing JavaScript files
+[DEBUG]  Copying and minifying /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/Resources/app.js => /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/app.js
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/common/FirstView.js
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/handheld/ApplicationWindow.js
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/handheld/android/ApplicationWindow.js
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/tablet/ApplicationWindow.js
+[INFO]   Writing app properties
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/_app_props_.json
+[DEBUG]  Using default application routing
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Classes/ApplicationRouting.m
+[INFO]   Writing i18n files
+[DEBUG]  Compiling localization files
+[DEBUG]  Processing i18n file: en/strings.xml
+[DEBUG]  Processing i18n file: ja/strings.xml
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/en.lproj/Localizable.strings
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ja.lproj/Localizable.strings
+[INFO]   Processing Titanium symbols
+[DEBUG]  Processing Titanium namespace resources
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/photoDefault.png
+[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Classes/defines.h
+[INFO]   Removing files
+[DEBUG]  Removing empty directories
+[INFO]   Skipping xcodebuild
+[INFO]   Finished building the application in 1s 92ms
+[INFO]   Launching iOS Simulator
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone X
+[TRACE]  [ioslib]   UDID    = E17FA73F-30F8-494F-93F3-A736F2D83C13
+[TRACE]  [ioslib]   iOS     = 11.4
+[TRACE]  [ioslib] Autoselected Xcode: 9.4.1
+[TRACE]  [ioslib] Checking if the simulator /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator is already running
+[TRACE]  [ioslib] Simulator is running (pid 3074)
+[TRACE]  [ioslib] Waiting for simulator to boot...
+[TRACE]  [ioslib] Simulator is booted!
+[TRACE]  [ioslib] iPhone X Simulator already running with the correct UDID
+[TRACE]  [ioslib] Tailing iPhone X Simulator system log: /Users/jezrel_mx/Library/Logs/CoreSimulator/E17FA73F-30F8-494F-93F3-A736F2D83C13/system.log
+[TRACE]  [ioslib] Running: osascript "/Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/node_modules/ioslib/lib/sim_focus.scpt" "Simulator"
+[TRACE]  [ioslib] iPhone X Simulator successfully focused
+[TRACE]  [ioslib] Installing the app
+[TRACE]  [ioslib] App launched
+[TRACE]  [ioslib] Trying to connect to log server port 24656...
