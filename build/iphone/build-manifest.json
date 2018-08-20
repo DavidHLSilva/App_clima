@@ -3092,82 +3092,567 @@
 		},
 		"DefaultIcon.png": {
 			"hash": "b7af0eb69fc7ba7acbdf024b6d887e98",
-			"mtime": "2018-08-16T15:51:44.347Z",
+			"mtime": "2018-08-16T18:32:28.789Z",
 			"size": 57128
 		},
 		"LaunchLogo.png": {
 			"hash": "b7af0eb69fc7ba7acbdf024b6d887e98",
-			"mtime": "2018-08-16T15:51:44.347Z",
+			"mtime": "2018-08-16T18:32:28.789Z",
 			"size": 57128
 		},
 		"Default-568h@2x.png": {
 			"hash": "73a0a5613b95d70f9d7b26ed3fae9c10",
-			"mtime": "2018-08-16T15:51:44.407Z",
+			"mtime": "2018-08-16T18:32:28.802Z",
 			"size": 259704
 		},
 		"Default-667h@2x.png": {
 			"hash": "c5301268170ecf8d3c6aa2cf2d13ada8",
-			"mtime": "2018-08-16T15:51:44.409Z",
+			"mtime": "2018-08-16T18:32:28.804Z",
 			"size": 281744
 		},
 		"Default-Landscape-2436h@3x.png": {
 			"hash": "dd72aa58260ae08455294ef0bce148d6",
-			"mtime": "2018-08-16T15:51:44.413Z",
+			"mtime": "2018-08-16T18:32:28.812Z",
 			"size": 870596
 		},
 		"Default-Landscape-736h@3x.png": {
 			"hash": "fe363143b3b7c19f6658a2b24cd7554f",
-			"mtime": "2018-08-16T15:51:44.418Z",
+			"mtime": "2018-08-16T18:32:28.815Z",
 			"size": 574799
 		},
 		"Default-Portrait-2436h@3x.png": {
 			"hash": "e92e73768de7f43dffb7db870060ac79",
-			"mtime": "2018-08-16T15:51:44.432Z",
+			"mtime": "2018-08-16T18:32:28.826Z",
 			"size": 713539
 		},
 		"Default-Portrait-736h@3x.png": {
 			"hash": "f3cdbbdb8725b1366b6f857a886d6716",
-			"mtime": "2018-08-16T15:51:44.449Z",
+			"mtime": "2018-08-16T18:32:28.829Z",
 			"size": 356659
 		},
 		"Default@2x.png": {
 			"hash": "db0ad2ebd19d6968e24141bcbc08487a",
-			"mtime": "2018-08-16T15:51:44.459Z",
+			"mtime": "2018-08-16T18:32:28.837Z",
 			"size": 186113
+		},
+		"assets/home/celsius.png": {
+			"hash": "2ea6ac509ed7b69938b89fcd14838ca0",
+			"mtime": "2018-08-20T18:25:10.158Z",
+			"size": 1482
+		},
+		"assets/home/weather/64x64/day/113.png": {
+			"hash": "f332afa37a54708cb83a860b523a779a",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2126
+		},
+		"assets/home/weather/64x64/day/116.png": {
+			"hash": "65af3e329263c6a08eb818c47a2cd3cd",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2597
+		},
+		"assets/home/weather/64x64/day/119.png": {
+			"hash": "dbb270f8d4f62c7c25269173edb0a917",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 1984
+		},
+		"assets/home/weather/64x64/day/122.png": {
+			"hash": "ca50147b06655322bbfe0ad4fddcfd6f",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2058
+		},
+		"assets/home/weather/64x64/day/143.png": {
+			"hash": "a08f02aaa19e8496e0cbb563b1e428be",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2106
+		},
+		"assets/home/weather/64x64/day/176.png": {
+			"hash": "f94bb7f98313d8b27bd1bfe3670f648d",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2729
+		},
+		"assets/home/weather/64x64/day/179.png": {
+			"hash": "4e0ed0111042a882412e4becbb81c28f",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2844
+		},
+		"assets/home/weather/64x64/day/182.png": {
+			"hash": "cf2c5003a927142822045584f328d44b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2901
+		},
+		"assets/home/weather/64x64/day/185.png": {
+			"hash": "15a2d1814b8387b39f9fe48098e5fe58",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2172
+		},
+		"assets/home/weather/64x64/day/200.png": {
+			"hash": "d24fc4b3fddc64e97efb987418a35b3b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2889
+		},
+		"assets/home/weather/64x64/day/227.png": {
+			"hash": "b4d09fd4c20b66653fd990210af4aad2",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2306
+		},
+		"assets/home/weather/64x64/day/230.png": {
+			"hash": "bff38e19736b052e8a2428e9f64eccdb",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2327
+		},
+		"assets/home/weather/64x64/day/248.png": {
+			"hash": "68272754c5d8db767dc4d1d7acd95e33",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2121
+		},
+		"assets/home/weather/64x64/day/260.png": {
+			"hash": "c7daa3a82888c4bcdb902a17e3adf2f1",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2253
+		},
+		"assets/home/weather/64x64/day/263.png": {
+			"hash": "463c3af1b625f94092f858aacdeda1b6",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2109
+		},
+		"assets/home/weather/64x64/day/266.png": {
+			"hash": "463c3af1b625f94092f858aacdeda1b6",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2109
+		},
+		"assets/home/weather/64x64/day/281.png": {
+			"hash": "15a2d1814b8387b39f9fe48098e5fe58",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2172
+		},
+		"assets/home/weather/64x64/day/284.png": {
+			"hash": "2dbdd9f707ea873b5b2ab3d3d9e4dfa9",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2155
+		},
+		"assets/home/weather/64x64/day/293.png": {
+			"hash": "f94bb7f98313d8b27bd1bfe3670f648d",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2729
+		},
+		"assets/home/weather/64x64/day/296.png": {
+			"hash": "1cf862e3dc265edcdedecec988d52005",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2134
+		},
+		"assets/home/weather/64x64/day/299.png": {
+			"hash": "f94bb7f98313d8b27bd1bfe3670f648d",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2729
+		},
+		"assets/home/weather/64x64/day/302.png": {
+			"hash": "1cf862e3dc265edcdedecec988d52005",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2134
+		},
+		"assets/home/weather/64x64/day/305.png": {
+			"hash": "5afb09a36dd28422e02f7c4e37bba6cc",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2723
+		},
+		"assets/home/weather/64x64/day/308.png": {
+			"hash": "6f4a95fb24760c1600646a926e0b75c0",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2110
+		},
+		"assets/home/weather/64x64/day/311.png": {
+			"hash": "83aa6ac5af884d406c83690605d76e66",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2232
+		},
+		"assets/home/weather/64x64/day/314.png": {
+			"hash": "83aa6ac5af884d406c83690605d76e66",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2232
+		},
+		"assets/home/weather/64x64/day/317.png": {
+			"hash": "b9a0e7136538cbc60c764a7f21375f5b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2305
+		},
+		"assets/home/weather/64x64/day/320.png": {
+			"hash": "b9a0e7136538cbc60c764a7f21375f5b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2305
+		},
+		"assets/home/weather/64x64/day/323.png": {
+			"hash": "4e0ed0111042a882412e4becbb81c28f",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2844
+		},
+		"assets/home/weather/64x64/day/326.png": {
+			"hash": "959892fdfe896ed89dd35dfcab9fe0c2",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2263
+		},
+		"assets/home/weather/64x64/day/329.png": {
+			"hash": "4e0ed0111042a882412e4becbb81c28f",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2844
+		},
+		"assets/home/weather/64x64/day/332.png": {
+			"hash": "959892fdfe896ed89dd35dfcab9fe0c2",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2263
+		},
+		"assets/home/weather/64x64/day/335.png": {
+			"hash": "3d99c3286365e8204a311ddda40f537f",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2858
+		},
+		"assets/home/weather/64x64/day/338.png": {
+			"hash": "a369e24be18da2bb35d9cc876559decf",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2263
+		},
+		"assets/home/weather/64x64/day/350.png": {
+			"hash": "e4173f2aa003a0774b4988c3d386633d",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2155
+		},
+		"assets/home/weather/64x64/day/353.png": {
+			"hash": "f94bb7f98313d8b27bd1bfe3670f648d",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2729
+		},
+		"assets/home/weather/64x64/day/356.png": {
+			"hash": "5afb09a36dd28422e02f7c4e37bba6cc",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2723
+		},
+		"assets/home/weather/64x64/day/359.png": {
+			"hash": "f72c3a36573d8810f178a7e6e9cdfed3",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2709
+		},
+		"assets/home/weather/64x64/day/362.png": {
+			"hash": "cf2c5003a927142822045584f328d44b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2901
+		},
+		"assets/home/weather/64x64/day/365.png": {
+			"hash": "c5d7fe3668525406b932abd505e6df48",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2944
+		},
+		"assets/home/weather/64x64/day/368.png": {
+			"hash": "4e0ed0111042a882412e4becbb81c28f",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2844
+		},
+		"assets/home/weather/64x64/day/371.png": {
+			"hash": "3d99c3286365e8204a311ddda40f537f",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2858
+		},
+		"assets/home/weather/64x64/day/374.png": {
+			"hash": "59e5d235ed463353173c0de8e51c3347",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2758
+		},
+		"assets/home/weather/64x64/day/377.png": {
+			"hash": "034ccd1a9a7a200fc34bd9464db09ed0",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2775
+		},
+		"assets/home/weather/64x64/day/386.png": {
+			"hash": "d24fc4b3fddc64e97efb987418a35b3b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2889
+		},
+		"assets/home/weather/64x64/day/389.png": {
+			"hash": "5addee672c9d475d4d68bf35f190054b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2271
+		},
+		"assets/home/weather/64x64/day/392.png": {
+			"hash": "7d49024bd73f1e11c769d445cd428341",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 3077
+		},
+		"assets/home/weather/64x64/day/395.png": {
+			"hash": "eaa70a0298a3f4af8119133b93a63b4c",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2451
+		},
+		"assets/home/weather/64x64/night/113.png": {
+			"hash": "5198763686edef38b3d5edb4e7b478c1",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 1613
+		},
+		"assets/home/weather/64x64/night/116.png": {
+			"hash": "0f91243b8d5ca24242bd3602022ec960",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2524
+		},
+		"assets/home/weather/64x64/night/119.png": {
+			"hash": "e31fd0a9c67b6624445c1156bc47e6f0",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2451
+		},
+		"assets/home/weather/64x64/night/122.png": {
+			"hash": "0d016a47abefe0792d90ca2f88961efa",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2058
+		},
+		"assets/home/weather/64x64/night/143.png": {
+			"hash": "805d70d7b0cc1f277655876b41406e54",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2106
+		},
+		"assets/home/weather/64x64/night/176.png": {
+			"hash": "89b144234044ef233ce9e483ce88211b",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2643
+		},
+		"assets/home/weather/64x64/night/179.png": {
+			"hash": "ffa630da43031adf5096f10b73ac87c5",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2749
+		},
+		"assets/home/weather/64x64/night/182.png": {
+			"hash": "e8686576a4b82f7ea05e277d09c95ac9",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2809
+		},
+		"assets/home/weather/64x64/night/185.png": {
+			"hash": "db71b128adf434be11f2ff2fc9ac9de1",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2169
+		},
+		"assets/home/weather/64x64/night/200.png": {
+			"hash": "339d04e904a6efe9a61a0e0a5ab75c48",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2797
+		},
+		"assets/home/weather/64x64/night/227.png": {
+			"hash": "adc36b97e8c486d982358580e54e0fd6",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2306
+		},
+		"assets/home/weather/64x64/night/230.png": {
+			"hash": "c38df34f171bc8b90ddf5c371bf5e6ca",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2327
+		},
+		"assets/home/weather/64x64/night/248.png": {
+			"hash": "7551637a3167fc4695b98392607e0e28",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2128
+		},
+		"assets/home/weather/64x64/night/260.png": {
+			"hash": "bc09b959d85a6c1638a08e60779472ed",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2253
+		},
+		"assets/home/weather/64x64/night/263.png": {
+			"hash": "9f8499141891c53eee48a5b725249c32",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2119
+		},
+		"assets/home/weather/64x64/night/266.png": {
+			"hash": "9f8499141891c53eee48a5b725249c32",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2119
+		},
+		"assets/home/weather/64x64/night/281.png": {
+			"hash": "db71b128adf434be11f2ff2fc9ac9de1",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2169
+		},
+		"assets/home/weather/64x64/night/284.png": {
+			"hash": "c0f1313a009d76cfb28398bac584c9c3",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2165
+		},
+		"assets/home/weather/64x64/night/293.png": {
+			"hash": "89b144234044ef233ce9e483ce88211b",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2643
+		},
+		"assets/home/weather/64x64/night/296.png": {
+			"hash": "76f14c43b7d223423d2c8bf51b50bcd1",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2134
+		},
+		"assets/home/weather/64x64/night/299.png": {
+			"hash": "89b144234044ef233ce9e483ce88211b",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2643
+		},
+		"assets/home/weather/64x64/night/302.png": {
+			"hash": "76f14c43b7d223423d2c8bf51b50bcd1",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2134
+		},
+		"assets/home/weather/64x64/night/305.png": {
+			"hash": "3abbcd06a2cd9458a38b990e6d86db1d",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2644
+		},
+		"assets/home/weather/64x64/night/308.png": {
+			"hash": "7c235ab18bc1fc4067713a0ac9422807",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2133
+		},
+		"assets/home/weather/64x64/night/311.png": {
+			"hash": "7f4b90169c1cbd1ad82a0f975bb30f55",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2232
+		},
+		"assets/home/weather/64x64/night/314.png": {
+			"hash": "7f4b90169c1cbd1ad82a0f975bb30f55",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2232
+		},
+		"assets/home/weather/64x64/night/317.png": {
+			"hash": "d35f977b76262728d022eb16b755e41d",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2305
+		},
+		"assets/home/weather/64x64/night/320.png": {
+			"hash": "d35f977b76262728d022eb16b755e41d",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2305
+		},
+		"assets/home/weather/64x64/night/323.png": {
+			"hash": "ffa630da43031adf5096f10b73ac87c5",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2749
+		},
+		"assets/home/weather/64x64/night/326.png": {
+			"hash": "de0abf06e2e3706c036f27528b4967d9",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2263
+		},
+		"assets/home/weather/64x64/night/329.png": {
+			"hash": "ffa630da43031adf5096f10b73ac87c5",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2749
+		},
+		"assets/home/weather/64x64/night/332.png": {
+			"hash": "de0abf06e2e3706c036f27528b4967d9",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2263
+		},
+		"assets/home/weather/64x64/night/335.png": {
+			"hash": "ffa630da43031adf5096f10b73ac87c5",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2749
+		},
+		"assets/home/weather/64x64/night/338.png": {
+			"hash": "106f8062ebf6a9456cd176f4d5577d2a",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2277
+		},
+		"assets/home/weather/64x64/night/350.png": {
+			"hash": "eda7fd0a4e7701cc720d2e449022543d",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2155
+		},
+		"assets/home/weather/64x64/night/353.png": {
+			"hash": "89b144234044ef233ce9e483ce88211b",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2643
+		},
+		"assets/home/weather/64x64/night/356.png": {
+			"hash": "3abbcd06a2cd9458a38b990e6d86db1d",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2644
+		},
+		"assets/home/weather/64x64/night/359.png": {
+			"hash": "6de75e56fda8490961dfc887e26676f2",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2617
+		},
+		"assets/home/weather/64x64/night/362.png": {
+			"hash": "e8686576a4b82f7ea05e277d09c95ac9",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2809
+		},
+		"assets/home/weather/64x64/night/365.png": {
+			"hash": "88bfb77de7401bf632c6a29cc798b3b5",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2856
+		},
+		"assets/home/weather/64x64/night/368.png": {
+			"hash": "ffa630da43031adf5096f10b73ac87c5",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2749
+		},
+		"assets/home/weather/64x64/night/371.png": {
+			"hash": "0005cc166922344405e3c85eff9d6a34",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2771
+		},
+		"assets/home/weather/64x64/night/374.png": {
+			"hash": "f9a371b6e3e519e77bdcb8690060a1ef",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2665
+		},
+		"assets/home/weather/64x64/night/377.png": {
+			"hash": "3ac01a1c401a6868724f001ae996c01a",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2683
+		},
+		"assets/home/weather/64x64/night/386.png": {
+			"hash": "339d04e904a6efe9a61a0e0a5ab75c48",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2797
+		},
+		"assets/home/weather/64x64/night/389.png": {
+			"hash": "44fa8ba85a80524948bd0f0c163a4780",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2271
+		},
+		"assets/home/weather/64x64/night/392.png": {
+			"hash": "c2cf3ac588fa07ed174be33986301431",
+			"mtime": "2015-04-13T20:18:44.000Z",
+			"size": 2974
+		},
+		"assets/home/weather/64x64/night/395.png": {
+			"hash": "eaa70a0298a3f4af8119133b93a63b4c",
+			"mtime": "2015-04-13T20:18:42.000Z",
+			"size": 2451
 		},
 		"assets/home/wind.png": {
 			"hash": "ab9cc57ba300edcb31b43d943398f933",
-			"mtime": "2018-08-16T16:25:44.258Z",
+			"mtime": "2018-08-16T18:32:28.798Z",
 			"size": 10616
 		},
 		"assets/images/tab1.png": {
 			"hash": "101b7e0edb0f6eaaf8496a794a5c1c2c",
-			"mtime": "2018-08-16T15:51:44.352Z",
+			"mtime": "2018-08-16T18:32:28.799Z",
 			"size": 15964
 		},
 		"assets/images/tab1@2x.png": {
 			"hash": "6ef3b5c1bfd31e18e47e6f29fed89e88",
-			"mtime": "2018-08-16T15:51:44.354Z",
+			"mtime": "2018-08-16T18:32:28.799Z",
 			"size": 16615
 		},
 		"assets/images/tab1@3x.png": {
 			"hash": "0899727d89c3fb4ea0da6df8902e342f",
-			"mtime": "2018-08-16T15:51:44.355Z",
+			"mtime": "2018-08-16T18:32:28.799Z",
 			"size": 17262
 		},
 		"assets/images/tab2.png": {
 			"hash": "cef4e7908540c8843b2a304cbe987d06",
-			"mtime": "2018-08-16T15:51:44.356Z",
+			"mtime": "2018-08-16T18:32:28.800Z",
 			"size": 16310
 		},
 		"assets/images/tab2@2x.png": {
 			"hash": "5b112d264901d5ea8db5e4c0b5cf83eb",
-			"mtime": "2018-08-16T15:51:44.358Z",
+			"mtime": "2018-08-16T18:32:28.800Z",
 			"size": 17730
 		},
 		"assets/images/tab2@3x.png": {
 			"hash": "ba6cfe1b8504e256c70a743da44b2bcb",
-			"mtime": "2018-08-16T15:51:44.358Z",
+			"mtime": "2018-08-16T18:32:28.800Z",
 			"size": 19376
 		},
 		"Classes/ApplicationRouting.m": {
@@ -3206,7 +3691,7 @@
 	"sdkVersion": "7.2.0.GA",
 	"iosSdkVersion": "11.4",
 	"deviceFamily": "iphone",
-	"iosSdkPath": "/Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/iphone",
+	"iosSdkPath": "/Users/manuel/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/iphone",
 	"tiCoreHash": "5710cda7b179a3c8391cc94011e308de",
 	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
 	"modulesNativeHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -3219,9 +3704,9 @@
 	"publisher": "jezrel_mx",
 	"url": "",
 	"version": "1.0",
-	"description": "",
+	"description": "undefined",
 	"copyright": "2018 by jezrel_mx",
-	"guid": "8a2f6361-2e3d-40c0-9222-a6e8192a3b71",
+	"guid": "179ad594-eb8c-408f-9bbb-daf98d29cae7",
 	"useAppThinning": true,
 	"skipJSMinification": true,
 	"encryptJS": false,

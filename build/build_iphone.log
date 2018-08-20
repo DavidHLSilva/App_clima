@@ -1,9 +1,9 @@
 
-2018-8-16 12:20:12
+2018-8-20 13:39:48
 
 Operating System
   Name                        = Mac OS X
-  Version                     = 10.13.6
+  Version                     = 10.13.5
   Architecture                = 64bit
   # CPUs                      = 4
   Memory                      = 8589934592
@@ -17,49 +17,49 @@ Titanium CLI
 
 Titanium SDK
   SDK Version                 = 7.2.0.GA
-  SDK Path                    = /Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA
+  SDK Path                    = /Users/manuel/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA
   Target Platform             = iphone
 
 Command
-  /usr/local/bin/node /Users/jezrel_mx/.appcelerator/install/7.0.4/package/node_modules/titanium/lib/titanium.js build --platform ios --log-level trace --sdk 7.2.0.GA --project-dir /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima --target simulator --ios-version 11.4 --device-family iphone --deploy-type development --device-id E17FA73F-30F8-494F-93F3-A736F2D83C13 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49270 --config-file /var/folders/xp/b9hl1l0n5h906h775tv5xk2h0000gn/T/build-1534440009783.json --no-banner --project-dir /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima
+  /usr/local/bin/node /Users/manuel/.appcelerator/install/7.0.4/package/node_modules/titanium/lib/titanium.js build --platform ios --log-level trace --sdk 7.2.0.GA --project-dir /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma --target simulator --ios-version 11.4 --device-family iphone --deploy-type development --device-id 1F13E819-E2CF-4C25-B1CD-D071168FFE83 --skip-js-minify --no-colors --no-progress-bars --no-prompt --prompt-type socket-bundle --prompt-port 49628 --config-file /var/folders/vt/bdk5cw2x1gj6m8q7tmmd_ckh0000gp/T/build-1534790385355.json --no-banner --project-dir /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma
 
-[TRACE]  [ioslib] Validating iOS Simulator UDID E17FA73F-30F8-494F-93F3-A736F2D83C13
-[TRACE]  [ioslib] Found iOS Simulator UDID E17FA73F-30F8-494F-93F3-A736F2D83C13
-[TRACE]  [ioslib] Selected iOS Simulator: iPhone X
-[TRACE]  [ioslib]   UDID    = E17FA73F-30F8-494F-93F3-A736F2D83C13
+[TRACE]  [ioslib] Validating iOS Simulator UDID 1F13E819-E2CF-4C25-B1CD-D071168FFE83
+[TRACE]  [ioslib] Found iOS Simulator UDID 1F13E819-E2CF-4C25-B1CD-D071168FFE83
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 5s
+[TRACE]  [ioslib]   UDID    = 1F13E819-E2CF-4C25-B1CD-D071168FFE83
 [TRACE]  [ioslib]   iOS     = 11.4
 [TRACE]  [ioslib] Autoselected Xcode: 9.4.1
-[DEBUG]  Detecting modules in /Users/jezrel_mx/Library/Application Support/Titanium/modules
-[DEBUG]  Detected android module: facebook 7.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/facebook/7.1.0
-[DEBUG]  Detected android module: hyperloop 1.2.8 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/hyperloop/1.2.8
-[DEBUG]  Detected android module: hyperloop 3.0.5 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/hyperloop/3.0.5
-[DEBUG]  Detected android module: ti.cloudpush 5.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.1.0
-[DEBUG]  Detected android module: ti.identity 2.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.identity/2.1.0
-[DEBUG]  Detected android module: ti.map 4.1.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.map/4.1.1
-[DEBUG]  Detected android module: ti.playservices 11.0.40 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.playservices/11.0.40
-[DEBUG]  Detected android module: ti.touchid 3.0.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/android/ti.touchid/3.0.1
-[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
-[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.1.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.1.0
-[DEBUG]  Detected iphone module: facebook 5.7.0 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/facebook/5.7.0
-[DEBUG]  Detected iphone module: hyperloop 1.2.8 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/hyperloop/1.2.8
-[DEBUG]  Detected iphone module: hyperloop 3.0.5 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/hyperloop/3.0.5
-[DEBUG]  Detected iphone module: ti.coremotion 2.0.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.1
-[DEBUG]  Detected iphone module: ti.identity 1.0.3 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.3
-[DEBUG]  Detected iphone module: ti.map 3.0.2 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.map/3.0.2
-[DEBUG]  Detected iphone module: ti.safaridialog 1.1.1 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.1.1
-[DEBUG]  Detected iphone module: ti.touchid 2.1.4 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/iphone/ti.touchid/2.1.4
-[DEBUG]  Detected windows module: hyperloop 3.0.5 @ /Users/jezrel_mx/Library/Application Support/Titanium/modules/windows/hyperloop/3.0.5
+[DEBUG]  Detecting modules in /Users/manuel/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: facebook 7.1.0 @ /Users/manuel/Library/Application Support/Titanium/modules/android/facebook/7.1.0
+[DEBUG]  Detected android module: hyperloop 1.2.8 @ /Users/manuel/Library/Application Support/Titanium/modules/android/hyperloop/1.2.8
+[DEBUG]  Detected android module: hyperloop 3.0.5 @ /Users/manuel/Library/Application Support/Titanium/modules/android/hyperloop/3.0.5
+[DEBUG]  Detected android module: ti.cloudpush 5.1.0 @ /Users/manuel/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.1.0
+[DEBUG]  Detected android module: ti.cloudpush 5.1.2 @ /Users/manuel/Library/Application Support/Titanium/modules/android/ti.cloudpush/5.1.2
+[DEBUG]  Detected android module: ti.identity 2.1.0 @ /Users/manuel/Library/Application Support/Titanium/modules/android/ti.identity/2.1.0
+[DEBUG]  Detected android module: ti.map 4.1.1 @ /Users/manuel/Library/Application Support/Titanium/modules/android/ti.map/4.1.1
+[DEBUG]  Detected android module: ti.playservices 11.0.40 @ /Users/manuel/Library/Application Support/Titanium/modules/android/ti.playservices/11.0.40
+[DEBUG]  Detected android module: ti.touchid 3.0.1 @ /Users/manuel/Library/Application Support/Titanium/modules/android/ti.touchid/3.0.1
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/manuel/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Detected iphone module: com.appcelerator.urlSession 2.1.0 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.1.0
+[DEBUG]  Detected iphone module: facebook 5.7.0 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/facebook/5.7.0
+[DEBUG]  Detected iphone module: hyperloop 1.2.8 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/hyperloop/1.2.8
+[DEBUG]  Detected iphone module: hyperloop 3.0.5 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/hyperloop/3.0.5
+[DEBUG]  Detected iphone module: ti.coremotion 2.0.1 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.1
+[DEBUG]  Detected iphone module: ti.identity 1.0.3 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.3
+[DEBUG]  Detected iphone module: ti.map 3.0.2 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/ti.map/3.0.2
+[DEBUG]  Detected iphone module: ti.safaridialog 1.1.1 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/ti.safaridialog/1.1.1
+[DEBUG]  Detected iphone module: ti.touchid 2.1.4 @ /Users/manuel/Library/Application Support/Titanium/modules/iphone/ti.touchid/2.1.4
+[DEBUG]  Detected windows module: hyperloop 3.0.5 @ /Users/manuel/Library/Application Support/Titanium/modules/windows/hyperloop/3.0.5
 [DEBUG]  No project level plugins to load
 [TRACE]  Snapshotting build directory
 [DEBUG]  Checking if log server port 24656 is available
-[DEBUG]  Log server port 24656 is in use, testing if it's the app we're building
-[DEBUG]  The log server port is being used by the app being built, continuing
-[DEBUG]  Titanium SDK iOS directory: /Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/iphone
+[DEBUG]  Log server port 24656 is available
+[DEBUG]  Titanium SDK iOS directory: /Users/manuel/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/iphone
 [INFO]   Deploy type: development
 [INFO]   Building for target: simulator
 [INFO]   Building using iOS SDK: 11.4
-[INFO]   Building for iOS Simulator: iPhone X
-[DEBUG]  UDID: E17FA73F-30F8-494F-93F3-A736F2D83C13
+[INFO]   Building for iOS Simulator: iPhone 5s
+[DEBUG]  UDID: 1F13E819-E2CF-4C25-B1CD-D071168FFE83
 [DEBUG]  Simulator type: iphone
 [DEBUG]  Simulator version: 11.4
 [INFO]   Building for device family: iphone
@@ -75,128 +75,322 @@ Command
 [INFO]   Set to copy files instead of symlinking
 [INFO]   Initializing the build directory
 [TRACE]  Starting third-party framework detection
-[TRACE]  offline build file /var/folders/xp/b9hl1l0n5h906h775tv5xk2h0000gn/T/build-f941fb9833a9175ecf34f56699f0afb59366a952.json
+[TRACE]  offline build file /var/folders/vt/bdk5cw2x1gj6m8q7tmmd_ckh0000gp/T/build-f97bfcd24e3bd8a60eb1712c6b849bd03ea2d011.json
 [TRACE]  online 1
-[TRACE]  optimizing build, last build was 5154.536 sec ago
+[TRACE]  optimizing build, last build was 11399.939 sec ago
 [INFO]   Creating Xcode project
 [TRACE]  Removing pre-compile phase
 [TRACE]  No native module libraries to add
 [TRACE]  No extensions to add
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima.xcodeproj/project.pbxproj
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Clima.xcodeproj/project.pbxproj
 [INFO]   Creating Entitlements.plist
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima.entitlements
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Clima.entitlements
 [INFO]   Creating Info.plist
 [DEBUG]  Checking for Splash Screen localization
 [INFO]   Disabling ATS
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Info.plist
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Info.plist
 [INFO]   Creating main.m
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/main.m
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/main.m
 [INFO]   Creating Xcode config files
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/project.xcconfig
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/module.xcconfig
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/project.xcconfig
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/module.xcconfig
 [INFO]   Copying Titanium libraries
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libTiCore.a
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libtiverify.a
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libti_ios_debugger.a
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/lib/libti_ios_profiler.a
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/lib/libTiCore.a
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/lib/libtiverify.a
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/lib/libti_ios_debugger.a
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/lib/libti_ios_profiler.a
 [INFO]   Copying Titanium iOS files
 [TRACE]  Skipping Classes/ApplicationRouting.m, it'll be processed later
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima_Prefix.pch
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Clima.xcodeproj/xcshareddata/xcschemes/Clima.xcscheme
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Clima_Prefix.pch
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Clima.xcodeproj/xcshareddata/xcschemes/Clima.xcscheme
 [INFO]   Installing default LaunchScreen.storyboard
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/LaunchScreen.storyboard
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/LaunchScreen.storyboard
 [INFO]   Creating debugger and profiler plists
-[DEBUG]  Skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/debugger.plist
-[DEBUG]  Skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/profiler.plist
+[DEBUG]  Skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/debugger.plist
+[DEBUG]  Skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/profiler.plist
 [INFO]   Analyzing Resources directory
 [INFO]   Analyzing platform files
 [INFO]   Analyzing module files
 [INFO]   Analyzing localized launch images
 [INFO]   Analyzing CommonJS modules
 [INFO]   Creating asset catalog
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/Contents.json
 [INFO]   Creating app icon set
-[TRACE]  Found generated 58x58 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@2x.png
-[TRACE]  Found generated 87x87 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@3x.png
-[TRACE]  Found generated 80x80 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@2x.png
-[TRACE]  Found generated 120x120 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@3x.png
-[TRACE]  Found generated 120x120 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@2x.png
-[TRACE]  Found generated 180x180 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@3x.png
-[TRACE]  Found generated 1024x1024 app icon: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Marketing.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
+[TRACE]  Found generated 58x58 app icon: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@2x.png
+[TRACE]  Found generated 87x87 app icon: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@3x.png
+[TRACE]  Found generated 80x80 app icon: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@2x.png
+[TRACE]  Found generated 120x120 app icon: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@3x.png
+[TRACE]  Found generated 120x120 app icon: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@2x.png
+[TRACE]  Found generated 180x180 app icon: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@3x.png
+[TRACE]  Found generated 1024x1024 app icon: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Marketing.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
 [INFO]   Creating launch logo image set
-[TRACE]  Found generated 320x320 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~iphone.png
-[TRACE]  Found generated 374x374 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~iphone.png
-[TRACE]  Found generated 621x621 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@3x~iphone.png
-[TRACE]  Found generated 384x384 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~ipad.png
-[TRACE]  Found generated 1024x1024 launch logo: /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~ipad.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchLogo.imageset/Contents.json
+[TRACE]  Found generated 320x320 launch logo: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~iphone.png
+[TRACE]  Found generated 374x374 launch logo: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~iphone.png
+[TRACE]  Found generated 621x621 launch logo: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@3x~iphone.png
+[TRACE]  Found generated 384x384 launch logo: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~ipad.png
+[TRACE]  Found generated 1024x1024 launch logo: /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~ipad.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchLogo.imageset/Contents.json
 [INFO]   Creating launch image set
 [DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Landscape.png
 [DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Landscape@2x.png
 [DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Portrait.png
 [DEBUG]  Skipping iPad launch image: Resources/iphone/Default-Portrait@2x.png
 [DEBUG]  Unsupported launch image Resources/iphone/Default.png, skipping
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
 [INFO]   Creating assets image set
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/183558f6ed7cc399a1af7d1033541e9e32c5c30c.imageset/Contents.json
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/Contents.json
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/21872766d6584fde1963192a9d75b06068b85b45.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/eb691eda58376fd69518e2bcc8e0d9909bbd3d90.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5744c51543ec50e53b6ed041ba2386ffa02045ff.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/811c315619c1fe60d665e59a1ba6d9dc41cf927f.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/6cf020626fcf3cbe8a1bb20dfcaab72beb013024.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/166631c17f8c82134e7c8923bb9cc5577989bc40.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f0dbd9a2f725f35cbe27af79157df8623d1c5dec.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/38dd75203234bd4d55dc6e691a2e1d9371cc9e5e.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d7a22081f2a19776e21b346372142d374fe7dd77.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4d57eb435541246d4c53d0988dcb41ee03c4d835.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b28fca2712a5e6602ef609a09bdbb0f44a22729f.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d54924873df9b602b02c330e330ebdaf3c2882c4.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/493fe6657945a51ce977d1e4b2654fa18e580c0f.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/c6a77d73d45762d2b1174017c33daffb2687229d.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/69fe05bd1c7b90e2c30ff5b2da643d6d0a3723c8.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/598b8085afc4e5c41dd2c7694b0e04a1dd624cfe.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/fa51f6efb15c23da94f5436f5ce3fe098e524e3c.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1c2128ec606aa675db6ac7a8670e899327da41de.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1b9c894697ca62279802f12d1da9db503f2bd853.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/26ff44b2a4c1442d6840c63cd2da9d9d15a8dc11.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/507be89d346201d09d78c03c938c9f0ee212471b.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/43a0836f1b605c2718111ad55233f392eb12765a.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/62f2af749f93fdd88f9abbece110eafd99b2071c.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/03bb158d90bad5b83edbef074d1649c4df1ecdfe.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/c6cd7514d892863e5d1c645d87de23a465bfe12d.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b87246c49b3c70fe4dbac4a40001dd54eb254d54.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3e492da2c1fef2c11cdc243e4caaf198b602fc7e.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7935e33affaa4783c39b17e72cdacdc522e3d60a.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/0177bd25c6194bf5a11a6f1ef7f8b8257d4b832c.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4bc5d0e01ad2614aa52d61b5d66b9cbbad359927.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b28b9bd9509ce44012863c85d99d35e160b60e26.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/e57835f4054f283500d73e9f14aeae772ca0de87.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/a6bbba6fd1dec7801813b2e7b0de1faf98a47f94.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d039f02742568ca541c1aaa32c7e2055a4450be0.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/33f8a34758ba6bfb9cc3d658f46232a156c9bc7f.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7c61a7adb0583d0116b936fc8da01a72df3a39ce.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/a76f1a113a0eae3e0aedb61205e9d854c4e036f5.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/fbea8b6e32bdcea110c6455f88a2993c8eee37f6.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/8f883e6ae6bb0902ba37c638a62024aacb57f3b6.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/559d69b4ddfc6ed409f0247287ea19064639fe24.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2e3f391083dffa473185e2a436c41d5149bf4cdc.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b1d287ccc113eb124e731bbf8369c3d4b17e1c0d.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/12a4b9125dd0f5752cc046960c6e2afcbfa75ad1.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/294598dafc4fd8cf3286d7db8fc7f97ec5a521b8.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/ff791db8aded9909488a4e33e76cbcc915fb5ea5.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2498a9799bf86e1cff9d8457b5170c94b7d93498.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/9dc82a59b9b3fa39aaf42c8b19d40cba67ee0552.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f3c4651aeddfe6813f125bbd9884e1187b358241.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5c1174f0677c6abdc226b97f63328ed494ba4c20.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/28c28a17d51eaf7ff62e2b6e6607d8c6d9554000.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/307eb16ce52a7744bc7bc5b7a72a9f2bca1fecb6.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/34c382f29d4bc970a53f57b8bf4da02b2a0433e8.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/dd9c62b97837dd7738f6f2b4a8c0f85d24b6e7c3.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/37b94cb265fb4c54909be31e186dffe254b44acb.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d9583a91c9c586eb9705fe857c5598651ed510e4.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2fcad206dc32e7690c7d1c421e199abb1450a47a.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3b581b58c0761adc7c00aab99a5a45628a8d4b99.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7b4116185f2f2a6675d50a110a1eca735e0a5838.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7241936c261d37948e2d3ee80eff07b03bc72100.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/9431208ff3641c2a357753bac597a716d62511c1.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4e1a511dbd18c3b52c0adb1610723b84c652c638.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/91783e1f6741074a38dab32120734713f2cff139.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/76469f083b663e38c7a70b217ac7eab82a95dac3.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f8922a9e0ced710c536c24a58312520c60f87cad.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/12cd48fb0ed69347eab1a70169c9cbef9a4af0f6.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/a4cbd58664862faa1c3c305d898b4bce04ed6aa2.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5062defc9444c77443372b12002f41bfdaefad55.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/31737d90f61170814d0d16ec92bfa3cc258ed0cf.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f1fdc7cff42c073dd08efa1213443c1eb51d7bb0.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/34da18a6f46adeae2e6ce082aa363539d1b7d087.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1dff424eb04246a1e6054284c8581a9a2a10e1df.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/70d7b60d0c0300f98958fde3ffca47fbbe69469e.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/09f855036c5c27c7da7c8ff39fda1441fa34a802.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/10ebd634199406a03546c5e2bcd562afa54c3229.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3791c4f2e8927c4570e715992cfc10a95ab511ce.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3b661a231df40814897d02911f79200e69adde1f.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/64893b4773d005619853948de8d26616202aec72.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4f5898e951662121b9eab4655fcbcd3428d0ff16.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/94ad9bcf2fd79e72a47fcb151f7f24d963cb2c70.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/bc1229d6f44651a6d9deb14de6f2de0f1dd971d6.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/8af0f717f34b28c194091a76adbbc41faf463404.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/0e1411ec7a585e1045ba40bb8f1d0bf83b649bee.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/cf33a75e57009f9174bbdcbeb0938c92ce0fcc32.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2970d6a63de881c83851d30f4fcc8646d14a7a84.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1e6f45393211fe40dce8204ba1f4f96335aa7f36.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/82a7f9d622100623772736b6d60afe7f728ffa6e.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5cb4ec0740d9b15b55029521506587c7dc33c8c8.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/bf8495dcefbf403398ac5698cc4a1368b5fabb07.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7e6f57bf6ba4f88c15e405a8b264694e2093d705.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/e526b8327af09c663e31170b07cf7de170af1ea1.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/e93cd040acef917a01cd38a90b68d0fd35a10619.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/bdc79c034f29888c7d92235ef950f5842ad45289.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/446e48cf639263d3bbda974e3bca95116d2985c1.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/34c0fdc83fe85257697c370f1a80327b8d9ea22b.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/76dedead6ad3592ecfe8327fb62db37cf6e0eddd.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7c4c2490b5c878ad2729e845d49479748a445fa7.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/be33cf12cbe5c8220e0bce8c2441b34840cc4fbd.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/183558f6ed7cc399a1af7d1033541e9e32c5c30c.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/Contents.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/Contents.json
 [DEBUG]  Copying resources
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-2436h@3x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-2436h@3x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/183558f6ed7cc399a1af7d1033541e9e32c5c30c.imageset/wind.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@2x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@3x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@2x.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@3x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-2436h@3x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-2436h@3x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/21872766d6584fde1963192a9d75b06068b85b45.imageset/celsius.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/eb691eda58376fd69518e2bcc8e0d9909bbd3d90.imageset/113.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5744c51543ec50e53b6ed041ba2386ffa02045ff.imageset/116.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/811c315619c1fe60d665e59a1ba6d9dc41cf927f.imageset/119.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/6cf020626fcf3cbe8a1bb20dfcaab72beb013024.imageset/122.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/166631c17f8c82134e7c8923bb9cc5577989bc40.imageset/143.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f0dbd9a2f725f35cbe27af79157df8623d1c5dec.imageset/176.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/38dd75203234bd4d55dc6e691a2e1d9371cc9e5e.imageset/179.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d7a22081f2a19776e21b346372142d374fe7dd77.imageset/182.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4d57eb435541246d4c53d0988dcb41ee03c4d835.imageset/185.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b28fca2712a5e6602ef609a09bdbb0f44a22729f.imageset/200.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d54924873df9b602b02c330e330ebdaf3c2882c4.imageset/227.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/493fe6657945a51ce977d1e4b2654fa18e580c0f.imageset/230.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/c6a77d73d45762d2b1174017c33daffb2687229d.imageset/248.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/69fe05bd1c7b90e2c30ff5b2da643d6d0a3723c8.imageset/260.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/598b8085afc4e5c41dd2c7694b0e04a1dd624cfe.imageset/263.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/fa51f6efb15c23da94f5436f5ce3fe098e524e3c.imageset/266.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1c2128ec606aa675db6ac7a8670e899327da41de.imageset/281.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1b9c894697ca62279802f12d1da9db503f2bd853.imageset/284.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/26ff44b2a4c1442d6840c63cd2da9d9d15a8dc11.imageset/293.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/507be89d346201d09d78c03c938c9f0ee212471b.imageset/296.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/43a0836f1b605c2718111ad55233f392eb12765a.imageset/299.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/62f2af749f93fdd88f9abbece110eafd99b2071c.imageset/302.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/03bb158d90bad5b83edbef074d1649c4df1ecdfe.imageset/305.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/c6cd7514d892863e5d1c645d87de23a465bfe12d.imageset/308.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b87246c49b3c70fe4dbac4a40001dd54eb254d54.imageset/311.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3e492da2c1fef2c11cdc243e4caaf198b602fc7e.imageset/314.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7935e33affaa4783c39b17e72cdacdc522e3d60a.imageset/317.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/0177bd25c6194bf5a11a6f1ef7f8b8257d4b832c.imageset/320.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4bc5d0e01ad2614aa52d61b5d66b9cbbad359927.imageset/323.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b28b9bd9509ce44012863c85d99d35e160b60e26.imageset/326.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/e57835f4054f283500d73e9f14aeae772ca0de87.imageset/329.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/a6bbba6fd1dec7801813b2e7b0de1faf98a47f94.imageset/332.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d039f02742568ca541c1aaa32c7e2055a4450be0.imageset/335.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/33f8a34758ba6bfb9cc3d658f46232a156c9bc7f.imageset/338.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7c61a7adb0583d0116b936fc8da01a72df3a39ce.imageset/350.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/a76f1a113a0eae3e0aedb61205e9d854c4e036f5.imageset/353.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/fbea8b6e32bdcea110c6455f88a2993c8eee37f6.imageset/356.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/8f883e6ae6bb0902ba37c638a62024aacb57f3b6.imageset/359.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/559d69b4ddfc6ed409f0247287ea19064639fe24.imageset/362.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2e3f391083dffa473185e2a436c41d5149bf4cdc.imageset/365.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/b1d287ccc113eb124e731bbf8369c3d4b17e1c0d.imageset/368.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/12a4b9125dd0f5752cc046960c6e2afcbfa75ad1.imageset/371.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/294598dafc4fd8cf3286d7db8fc7f97ec5a521b8.imageset/374.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/ff791db8aded9909488a4e33e76cbcc915fb5ea5.imageset/377.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2498a9799bf86e1cff9d8457b5170c94b7d93498.imageset/386.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/9dc82a59b9b3fa39aaf42c8b19d40cba67ee0552.imageset/389.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f3c4651aeddfe6813f125bbd9884e1187b358241.imageset/392.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5c1174f0677c6abdc226b97f63328ed494ba4c20.imageset/395.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/28c28a17d51eaf7ff62e2b6e6607d8c6d9554000.imageset/113.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/307eb16ce52a7744bc7bc5b7a72a9f2bca1fecb6.imageset/116.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/34c382f29d4bc970a53f57b8bf4da02b2a0433e8.imageset/119.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/dd9c62b97837dd7738f6f2b4a8c0f85d24b6e7c3.imageset/122.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/37b94cb265fb4c54909be31e186dffe254b44acb.imageset/143.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/d9583a91c9c586eb9705fe857c5598651ed510e4.imageset/176.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2fcad206dc32e7690c7d1c421e199abb1450a47a.imageset/179.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3b581b58c0761adc7c00aab99a5a45628a8d4b99.imageset/182.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7b4116185f2f2a6675d50a110a1eca735e0a5838.imageset/185.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7241936c261d37948e2d3ee80eff07b03bc72100.imageset/200.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/9431208ff3641c2a357753bac597a716d62511c1.imageset/227.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4e1a511dbd18c3b52c0adb1610723b84c652c638.imageset/230.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/91783e1f6741074a38dab32120734713f2cff139.imageset/248.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/76469f083b663e38c7a70b217ac7eab82a95dac3.imageset/260.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f8922a9e0ced710c536c24a58312520c60f87cad.imageset/263.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/12cd48fb0ed69347eab1a70169c9cbef9a4af0f6.imageset/266.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/a4cbd58664862faa1c3c305d898b4bce04ed6aa2.imageset/281.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5062defc9444c77443372b12002f41bfdaefad55.imageset/284.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/31737d90f61170814d0d16ec92bfa3cc258ed0cf.imageset/293.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f1fdc7cff42c073dd08efa1213443c1eb51d7bb0.imageset/296.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/34da18a6f46adeae2e6ce082aa363539d1b7d087.imageset/299.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1dff424eb04246a1e6054284c8581a9a2a10e1df.imageset/302.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/70d7b60d0c0300f98958fde3ffca47fbbe69469e.imageset/305.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/09f855036c5c27c7da7c8ff39fda1441fa34a802.imageset/308.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/10ebd634199406a03546c5e2bcd562afa54c3229.imageset/311.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3791c4f2e8927c4570e715992cfc10a95ab511ce.imageset/314.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/3b661a231df40814897d02911f79200e69adde1f.imageset/317.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/64893b4773d005619853948de8d26616202aec72.imageset/320.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/4f5898e951662121b9eab4655fcbcd3428d0ff16.imageset/323.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/94ad9bcf2fd79e72a47fcb151f7f24d963cb2c70.imageset/326.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/bc1229d6f44651a6d9deb14de6f2de0f1dd971d6.imageset/329.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/8af0f717f34b28c194091a76adbbc41faf463404.imageset/332.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/0e1411ec7a585e1045ba40bb8f1d0bf83b649bee.imageset/335.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/cf33a75e57009f9174bbdcbeb0938c92ce0fcc32.imageset/338.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/2970d6a63de881c83851d30f4fcc8646d14a7a84.imageset/350.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/1e6f45393211fe40dce8204ba1f4f96335aa7f36.imageset/353.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/82a7f9d622100623772736b6d60afe7f728ffa6e.imageset/356.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/5cb4ec0740d9b15b55029521506587c7dc33c8c8.imageset/359.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/bf8495dcefbf403398ac5698cc4a1368b5fabb07.imageset/362.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7e6f57bf6ba4f88c15e405a8b264694e2093d705.imageset/365.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/e526b8327af09c663e31170b07cf7de170af1ea1.imageset/368.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/e93cd040acef917a01cd38a90b68d0fd35a10619.imageset/371.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/bdc79c034f29888c7d92235ef950f5842ad45289.imageset/374.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/446e48cf639263d3bbda974e3bca95116d2985c1.imageset/377.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/34c0fdc83fe85257697c370f1a80327b8d9ea22b.imageset/386.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/76dedead6ad3592ecfe8327fb62db37cf6e0eddd.imageset/389.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/7c4c2490b5c878ad2729e845d49479748a445fa7.imageset/392.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/be33cf12cbe5c8220e0bce8c2441b34840cc4fbd.imageset/395.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/183558f6ed7cc399a1af7d1033541e9e32c5c30c.imageset/wind.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@2x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/f58b0d04f3ad524648680e9940fb4e77323cb9bb.imageset/tab1@3x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@2x.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Assets.xcassets/cb2e9b637cf08b6cee5c34a9d42ed14216474da9.imageset/tab2@3x.png
 [DEBUG]  Copying CSS files
 [INFO]   Processing JavaScript files
-[DEBUG]  Copying and minifying /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/Resources/app.js => /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/app.js
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/common/FirstView.js
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/handheld/ApplicationWindow.js
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/handheld/android/ApplicationWindow.js
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/tablet/ApplicationWindow.js
+[DEBUG]  Copying and minifying /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/Resources/app.js => /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/app.js
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/common/FirstView.js
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/handheld/ApplicationWindow.js
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/handheld/android/ApplicationWindow.js
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ui/tablet/ApplicationWindow.js
 [INFO]   Writing app properties
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/_app_props_.json
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/_app_props_.json
 [DEBUG]  Using default application routing
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Classes/ApplicationRouting.m
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Classes/ApplicationRouting.m
 [INFO]   Writing i18n files
 [DEBUG]  Compiling localization files
 [DEBUG]  Processing i18n file: en/strings.xml
 [DEBUG]  Processing i18n file: ja/strings.xml
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/en.lproj/Localizable.strings
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ja.lproj/Localizable.strings
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/en.lproj/Localizable.strings
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/ja.lproj/Localizable.strings
 [INFO]   Processing Titanium symbols
 [DEBUG]  Processing Titanium namespace resources
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/badge.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/closeButton.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/photoDefault.png
-[TRACE]  No change, skipping /Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/build/iphone/Classes/defines.h
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/build/Products/Debug-iphonesimulator/Clima.app/modules/ui/images/photoDefault.png
+[TRACE]  No change, skipping /Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/build/iphone/Classes/defines.h
 [INFO]   Removing files
 [DEBUG]  Removing empty directories
 [INFO]   Skipping xcodebuild
-[INFO]   Finished building the application in 1s 92ms
+[INFO]   Finished building the application in 1s 125ms
 [INFO]   Launching iOS Simulator
-[TRACE]  [ioslib] Selected iOS Simulator: iPhone X
-[TRACE]  [ioslib]   UDID    = E17FA73F-30F8-494F-93F3-A736F2D83C13
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 5s
+[TRACE]  [ioslib]   UDID    = 1F13E819-E2CF-4C25-B1CD-D071168FFE83
 [TRACE]  [ioslib]   iOS     = 11.4
 [TRACE]  [ioslib] Autoselected Xcode: 9.4.1
 [TRACE]  [ioslib] Checking if the simulator /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator is already running
-[TRACE]  [ioslib] Simulator is running (pid 3074)
-[TRACE]  [ioslib] Waiting for simulator to boot...
-[TRACE]  [ioslib] Simulator is booted!
-[TRACE]  [ioslib] iPhone X Simulator already running with the correct UDID
-[TRACE]  [ioslib] Tailing iPhone X Simulator system log: /Users/jezrel_mx/Library/Logs/CoreSimulator/E17FA73F-30F8-494F-93F3-A736F2D83C13/system.log
-[TRACE]  [ioslib] Running: osascript "/Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/node_modules/ioslib/lib/sim_focus.scpt" "Simulator"
-[TRACE]  [ioslib] iPhone X Simulator successfully focused
+[TRACE]  [ioslib] Simulator is not running
+[TRACE]  [ioslib] Tailing iPhone 5s Simulator system log: /Users/manuel/Library/Logs/CoreSimulator/1F13E819-E2CF-4C25-B1CD-D071168FFE83/system.log
+[TRACE]  [ioslib] Running: /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator -CurrentDeviceUDID 1F13E819-E2CF-4C25-B1CD-D071168FFE83
+[TRACE]  [ioslib] Simulator is booted
+[TRACE]  [ioslib] iPhone 5s Simulator started
+[TRACE]  [ioslib] Running: osascript "/Users/manuel/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/node_modules/ioslib/lib/sim_focus.scpt" "Simulator"
+[TRACE]  [ioslib] iPhone 5s Simulator successfully focused
 [TRACE]  [ioslib] Installing the app
 [TRACE]  [ioslib] App launched
 [TRACE]  [ioslib] Trying to connect to log server port 24656...

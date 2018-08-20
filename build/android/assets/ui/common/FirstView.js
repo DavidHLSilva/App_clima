@@ -1,1 +1,1 @@
-/Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/Resources/ui/common/FirstView.js
+/Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/Resources/ui/common/FirstView.js

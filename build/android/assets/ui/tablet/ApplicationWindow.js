@@ -1,1 +1,1 @@
-/Users/jezrel_mx/Documents/Appcelerator_Studio_Workspace/Clima/Resources/ui/tablet/ApplicationWindow.js
+/Users/manuel/Documents/Appcelerator_Studio_Workspace/clima_cgma/Resources/ui/tablet/ApplicationWindow.js

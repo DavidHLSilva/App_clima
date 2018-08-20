@@ -5,13 +5,13 @@
     <version>1.0</version>
     <publisher>jezrel_mx</publisher>
     <url/>
-    <description/>
+    <description>undefined</description>
     <copyright>2018 by jezrel_mx</copyright>
     <icon>appicon.png</icon>
     <fullscreen>false</fullscreen>
     <navbar-hidden>false</navbar-hidden>
     <analytics>true</analytics>
-    <guid>8a2f6361-2e3d-40c0-9222-a6e8192a3b71</guid>
+    <guid>179ad594-eb8c-408f-9bbb-daf98d29cae7</guid>
     <property name="ti.ui.defaultunit" type="string">dp</property>
     <property name="run-on-main-thread" type="bool">true</property>
     <ios>

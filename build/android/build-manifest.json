@@ -2,7 +2,7 @@
 	"target": "device",
 	"deployType": "test",
 	"classname": "Clima",
-	"platformPath": "/Users/jezrel_mx/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/android",
+	"platformPath": "/Users/manuel/Library/Application Support/Titanium/mobilesdk/osx/7.2.0.GA/android",
 	"modulesHash": "d41d8cd98f00b204e9800998ecf8427e",
 	"modulesManifestHash": "d41d8cd98f00b204e9800998ecf8427e",
 	"modulesNativeHash": "d41d8cd98f00b204e9800998ecf8427e",
@@ -14,9 +14,9 @@
 	"publisher": "jezrel_mx",
 	"url": "",
 	"version": "1.0",
-	"description": "",
+	"description": "undefined",
 	"copyright": "2018 by jezrel_mx",
-	"guid": "8a2f6361-2e3d-40c0-9222-a6e8192a3b71",
+	"guid": "179ad594-eb8c-408f-9bbb-daf98d29cae7",
 	"icon": "appicon.png",
 	"fullscreen": false,
 	"navbarHidden": false,
@@ -24,9 +24,9 @@
 	"mergeCustomAndroidManifest": true,
 	"encryptJS": true,
 	"minSDK": 16,
-	"targetSDK": 25,
+	"targetSDK": 23,
 	"propertiesHash": "739ab65f1586ac2e34f68d34dc5cff47",
 	"activitiesHash": "d41d8cd98f00b204e9800998ecf8427e",
 	"servicesHash": "d41d8cd98f00b204e9800998ecf8427e",
-	"jarLibHash": "afdda3918f39e807693c3fdc23f1f0bf"
+	"jarLibHash": "210d4866e54b74d48b896af10a9c31c3"
 }
