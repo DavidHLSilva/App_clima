@@ -268,7 +268,7 @@ var client = Ti.Network.createHTTPClient({
      	if (diaNoche[diaNoche.length-9] == "y")
      		diaNoche = "day";
      	else
-     		diaNoche = "nigth";
+     		diaNoche = "night";
      	var aux = climaCDMX.current.condition.icon;
      	var	iconC = aux[aux.length-7] + aux[aux.length-6] + aux[aux.length-5];
         var temp = climaCDMX.current.temp_c + "º";
